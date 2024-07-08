@@ -14,7 +14,7 @@ The Random Password Generator is a PHP-based web application that allows users t
 - Very Weak and Weak: Red
 - Good: Orange
 - Strong and Very Strong: Green
-- 
+  
 **5. Copy to Clipboard:** Convenient button to copy the generated password to the clipboard.
 
 # Technologies Used
