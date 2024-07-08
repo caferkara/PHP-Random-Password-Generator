@@ -5,12 +5,16 @@ The Random Password Generator is a PHP-based web application that allows users t
 # Features
 
 **1. Generate Button:** Easily generate a new random password with a single click.
+
 **2. Password Length:** Adjustable slider to set the password length (up to 50 characters).
+
 **3. Character Sets:** Checkboxes to include/exclude uppercase letters, lowercase letters, numbers, and special characters.
+
 **4. Password Strength:** Visual indicator showing the strength of the generated password with background color coding:
 - Very Weak and Weak: Red
 - Good: Orange
 - Strong and Very Strong: Green
+- 
 **5. Copy to Clipboard:** Convenient button to copy the generated password to the clipboard.
 
 # Technologies Used
@@ -26,7 +30,7 @@ To run this project locally, follow these steps:
 
 **1. Clone the repository:**
 
-`git clone https://github.com/yourusername/random-password-generator.git`
+`git clone https://github.com/caferkara/php-random-password-generator.git`
 
 **2. Navigate to the project directory:**
 
