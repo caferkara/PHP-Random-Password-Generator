@@ -58,6 +58,10 @@ To run this project locally, follow these steps:
 5. The generated password will appear in the input box.
 6. Click the "Copy" button to copy the password to your clipboard.
 
+# Sobre El PHP Generador de Contraseñas
+
+[Haga clic aquí para leer más](https://caferkara.com.tr/projects/random-password-generator-features-and-changelogs/sobre-el-php-generador-de-contrasenas/)
+
 # License
 
 This project is licensed under the MIT License.
