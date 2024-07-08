@@ -38,8 +38,8 @@ To run this project locally, follow these steps:
 
 **4. Place the project files in your web server's root directory:**
 
-- For XAMPP, this is typically htdocs.
-- For WAMP, this is typically www.
+- For XAMPP, this is typically htdocs
+- For WAMP, this is typically www
 
 **5. Access the application via your web browser:**
 
